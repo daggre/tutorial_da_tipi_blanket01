@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bsCentre x="0.016357541" y="0.21142602" z="4.511817" />
+      <bsRadius value="7.319184" />
+      <bbMin x="-3.624023" y="-3.436035" z="-0.68569326" />
+      <bbMax x="3.656738" y="3.858887" z="9.709327" />
+      <lodDist value="150" />
+      <hdTextureDist value="60.0"/>
+      <name>da_tipi_blanket01</name>
+      <textureDictionary>da_tipi_blanket01</textureDictionary>
+      <physicsDictionary>da_tipi_blanket01</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>da_tipi_blanket01</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>da_tipi_blanket01</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
